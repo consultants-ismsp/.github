@@ -1,4 +1,4 @@
-# consultants-ismsp
+# CONSULTANTS-ISMSP
 
 ISMS-P 인증 컨설팅을 주제로 한 학습/실습 프로젝트 모음입니다.
 가상기업 **브릿지X**(온프레미스 망분리 + 선불 충전식 머니 서비스)를 대상으로,
